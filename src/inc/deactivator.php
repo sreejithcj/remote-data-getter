@@ -3,7 +3,7 @@
 /**
  * Fired during plugin deactivation
  * @since      1.0.0
- * @author     Ruslan Ismailov
+ * @author     Sreejith C J
  */
 declare(strict_types=1);
 

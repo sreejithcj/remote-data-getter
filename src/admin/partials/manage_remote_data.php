@@ -3,7 +3,7 @@
 /**
  * Admin user page content to for "Manage Remote Data" menu item
  * @since      1.0.0
- * @author	Ruslan Ismailov
+ * @author	Sreejith C J
  */
 
 declare( strict_types = 1 );

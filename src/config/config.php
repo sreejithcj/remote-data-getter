@@ -7,7 +7,7 @@ namespace RemoteDataGetter\Config;
 /**
  * Config enters for the plugin goes in here
  * @since      1.0.0
- * @author     Ruslan Ismailov
+ * @author     Sreejith C J
  */
 
 final class Config {

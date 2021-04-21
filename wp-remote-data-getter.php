@@ -4,7 +4,7 @@
  * Plugin Name: Remote Data Getter
  * Description: This plugin retrieves data from external API and displays it to public and admin. Caches the retrieved data for 12 hours and admin user can purge the cache data.
  * Version:     1.0.0
- * Author:      Ruslan Ismailov
+ * Author:      Sreejith C J
  * License:     MIT
  * Text Domain: remote-data-getter
  */

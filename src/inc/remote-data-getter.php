@@ -3,7 +3,7 @@
 /**
  * Loads all dependencies, admin and public hooks
  * @since      1.0.0
- * @author     Ruslan Ismailov
+ * @author     Sreejith C J
  */
 
 use RemoteDataGetter\Inc as Common;
