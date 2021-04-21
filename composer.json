@@ -1,0 +1,11 @@
+{
+    "name": "ismailov/remote-data-getter",
+    "type": "wordpress-plugin",
+    "description": "Plugin to pull data from external APIs and populate using a shortcode",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RemoteDataGetter\\": "src/"
+        }   
+    }
+}
