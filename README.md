@@ -2,7 +2,7 @@
 
 * Plugin Name: Remote Data Getter
 * Version:     1.0.0
-* Author:      Ruslan Ismailov
+* Author:      Sreejith C J
 * License:     MIT
 
 ## Table Of Contents
@@ -48,6 +48,6 @@ How to install Job Task plugin:
 
 ## License
 
-Copyright (c) 2020 Ruslan Ismailov
+Copyright (c) 2020 Sreejith C J
 
 This plugin is free for everyone! Since it's released under the [MIT License](LICENSE) you can use it free of charge on your personal or commercial website.
